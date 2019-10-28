@@ -7,7 +7,7 @@
 
   <default remote="OpenSTLinux"/>
 
-  <project name="meta-karo-stm" path="layers/meta-karo-stm" remote="karo" revision="b8ed95469e7eb3c3a679d0eaa81b922ec28c8a7b"/>
+  <project name="meta-karo-stm" path="layers/meta-karo-stm" remote="karo" revision="bbe65ee574f283382c8e853a409e3d77242d7600"/>
   <project name="TimesysGit/meta-timesys" path="layers/meta-timesys" remote="github" revision="031d6eb674c76b1d9dabdc93cbff4adb10c7cebb"/>
   <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="4ce92f43eeac6a4bfd06e8567fa6891614b5b3b0"/>
   <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="9b3b907f30b0d5b92d58c7e68289184fda733d3e"/>
