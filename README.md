@@ -4,4 +4,4 @@ This is the Manifest to get a complete Yocto BSP - including our layer - for our
 
 See our official documentation how to use it.
 
-_URL COMING SOON - STAY TUNED ;-)_ 
+https://karo-electronics.github.io/docs/yocto-guide/yocto-thud-guide/index.html
